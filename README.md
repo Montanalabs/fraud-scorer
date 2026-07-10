@@ -28,8 +28,8 @@ never compiles to a runnable agent.
 
 ## Files
 
-- `fraud-scorer_safe.os` — the correct design.
-- `fraud-scorer_unsafe.os` — the tempting-but-wrong version (the negative example a model must learn to reject).
+- `fraud-scorer_safe.wave` — the correct design.
+- `fraud-scorer_unsafe.wave` — the tempting-but-wrong version (the negative example a model must learn to reject).
 - `ondos.toml` — the project manifest (each app is a self-contained Ondos project).
 
 ---
